@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(15): warning C4244: 'inicializando': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(15): note: durante la compilación de la función miembro de plantilla clase de 'vec3<float>::vec3(int,int,int)'
+  C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(68): note: vea la referencia a la creación de instancias de plantilla de función 'vec3<float>::vec3(int,int,int)' que se está compilando
+  C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(67): note: vea la referencia a la creación de instancias de plantilla clase de 'vec3<float>' que se está compilando
+C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(15): warning C4244: 'inicializando': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\berna\OneDrive\Escritorio\Project1\Project1\Source.cpp(15): warning C4244: 'inicializando': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> C:\Users\berna\OneDrive\Escritorio\Project1\Debug\Project1.exe
